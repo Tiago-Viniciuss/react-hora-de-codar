@@ -24,3 +24,5 @@ const TemplatesExpressions = () => {
 export default TemplatesExpressions
 
 // Diferentes maneiras de imprimir componentes dentro do JSX
+
+// Template expression é usado para importar Componentes através de duas chaves, importando através do nome da variável ou constante
